@@ -11,7 +11,7 @@ Press play to run the sketch and generate a pattern. Press number keys 1-6 to ch
 
 My main source for this project is Andrew Martin's book, *Seats of London: A Field Guide to London Transport Moquette Patterns*. I have always admired the contributions of craftspeople and designers to the visual language of our everyday lives. Nothing exemplifies this better than the tufted patterns featured on the seats we sit on while moving around the city, subtle pieces of ornamentation that are ever-present but seldom noticed, and hardly credited. Rather than focus on an acclaimed auteur painter or designer, I chose to highlight the practice of TfL seat pattern-making as a whole, a craft incrementally developed by many contributors over decades.
 
-The Routemaster pattern which served as the direct inspiration for my project was created by industrial designer Douglas Scott in the 1950s. [Here]([url](https://www.ltmuseum.co.uk/system/files/styles/collection_item_component_600_px_wide/private/collection_item/i0000im5_1.jpg?itok=F8nX0TQF)) it is.
+The Routemaster pattern which served as the direct inspiration for my project was created by industrial designer Douglas Scott in the 1950s. [Here](https://www.ltmuseum.co.uk/system/files/styles/collection_item_component_600_px_wide/private/collection_item/i0000im5_1.jpg?itok=F8nX0TQF) it is.
 
 ## Notes on Process
 
