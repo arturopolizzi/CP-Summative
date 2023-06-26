@@ -3,7 +3,7 @@
 
 This Processing sketch creates a pattern inspired by the woven moquette used on the seats of the legendary Routemaster bus.
 
-## How to use
+## How to Use
 
 Press play to run the sketch and generate a pattern. Press number keys 1-6 to change the pattern's colour scheme.
 
